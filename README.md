@@ -1,8 +1,8 @@
-# Fundamentos Python
+# 🐍 Fundamentos Python
 
 Repositório com exercícios e estudos práticos dos fundamentos da linguagem Python, organizado por temas para facilitar a evolução do aprendizado e a navegação no portfólio.
 
-## Estrutura do repositório
+## 📚 Estrutura do repositório
 
 ### 01-logica
 Exercícios de lógica de programação, estruturas condicionais, operadores relacionais e repetição.
@@ -22,7 +22,7 @@ Estudos e práticas de Programação Orientada a Objetos (POO) com Python.
 ### 06-interfaces
 Exercícios com interface gráfica utilizando Tkinter.
 
-## Objetivo
+## 🎯 Objetivo
 
 Consolidar a base em Python para avançar de forma estruturada nas áreas de:
 
